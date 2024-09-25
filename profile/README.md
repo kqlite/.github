@@ -1,6 +1,6 @@
 ## *kqlite*
 
-**SQL database engine with high availability and automatic failover.**
+**SQL database engine with high availability and automatic failover for K8s and the Edge.**
 
 ***kqlite*** is a lighweight remote frontend to **SQLite** over the **PostgreSQL** wire protocol.<br>
 Remote clients can connect to the same database and perform concurent reads and writes.<br>
