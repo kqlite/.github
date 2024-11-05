@@ -1,6 +1,6 @@
 ## *kqlite*
 
-**Lightweight remote SQLite with high availability and automatic failover.**
+**Lightweight remote SQLite with high availability and auto failover.**
 
 Remote accees to **SQLite** is done via the **PostgreSQL** wire protocol.<br>
 **High availability** is easy to setup and needs only two Nodes (Primary->Secondary).<br>
